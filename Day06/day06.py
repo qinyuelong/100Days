@@ -25,4 +25,9 @@ def c_mn():
     print(fm // fn // fmn)
 
 
-c_mn()
+# c_mn()
+
+
+
+def gcd(x, y):
+    

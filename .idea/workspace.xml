@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="488430e3-ef0b-448f-b9b3-3c62299e9db3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Day05/day05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Day06/day06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Day06/day06.py" beforeDir="false" afterPath="$PROJECT_DIR$/Day06/day06.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,12 +37,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="1530" />
+          <entry key="py" value="1548" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="1530" />
+          <entry key="Python" value="1548" />
         </counts>
       </usages-collector>
     </session>
@@ -88,9 +86,10 @@
         <entry file="file://$PROJECT_DIR$/Day06/day06.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="367">
-              <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+              <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
               <folding>
-                <marker date="1578670224216" expanded="true" signature="192:197" ph="..." />
+                <marker date="1578672550503" expanded="true" signature="192:197" ph="..." />
+                <marker date="1578672550503" expanded="true" signature="491:496" ph="..." />
               </folding>
             </state>
           </provider>
@@ -306,7 +305,7 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32930514" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32930514" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -365,9 +364,10 @@
     <entry file="file://$PROJECT_DIR$/Day06/day06.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="367">
-          <caret line="27" column="6" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="6" />
+          <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
           <folding>
-            <marker date="1578670224216" expanded="true" signature="192:197" ph="..." />
+            <marker date="1578672550503" expanded="true" signature="192:197" ph="..." />
+            <marker date="1578672550503" expanded="true" signature="491:496" ph="..." />
           </folding>
         </state>
       </provider>
