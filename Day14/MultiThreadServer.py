@@ -27,7 +27,7 @@ def main():
     server.bind(('127.0.0.1', 5566))
     server.listen(512)
     print('服务器启动开始监听...')
-    with open('guido.jpg', 'rb') as f:
+    with open('../res/guido.jpg', 'rb') as f:
         data = b64encode(f.read()).decode('utf-8')
     while True:
         client, addr = server.accept()
