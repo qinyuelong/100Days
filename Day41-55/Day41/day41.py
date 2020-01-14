@@ -35,3 +35,26 @@ views.py：处理请求并返回响应的函数（MVC中的C，MTV中的V）。
 
 
 '''
+
+
+class Chain(object):
+
+    def __init__(self, path=''):
+        self._path = path
+
+    def __getattr__(self, path):
+        return Chain('%s/%s' % (self._path, path))
+
+    def __str__(self):
+        return self._path
+
+    __repr = __str__
+
+
+
+def main():
+    r = Chain().status.user.timeline.list
+    print(r)
+
+if __name__ == '__main__':
+    main()
